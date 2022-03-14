@@ -10,7 +10,7 @@
  </head>
  <body>
   <p>
-   <a href="https://instagram.com/lyutsiyaa"><img src="https://www.pinclipart.com/picdir/middle/39-391138_instagram-icon-instagram-line-icon-png-clipart.png" width="40" 
+   <a href="https://instagram.com/lyutsiyaa"><img src="https://avatars.mds.yandex.net/i?id=e4437a488b1ddf0a30c4eaae7b713956-5654477-images-thumbs&n=13" width="40" 
    height="40" alt="Inst"></a>
    <a href="https://t.me/lyutsiya"><img src="https://static.tildacdn.com/tild3033-3839-4330-a565-376335353366/telegram-logo-black-.png" width="30" 
    height="30" alt="Telegram"></a>
