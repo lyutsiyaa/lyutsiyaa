@@ -1,16 +1,15 @@
-### Hi there 👋
+### Всем привет, меня зовут Люция!
+#### Закончила обучение  на "Аналитика данных" от Яндекс.Практикум.
+  * Сейчас нахожусь в поиске работы.
 
-<!--
-**lyutsiyaa/lyutsiyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Связаться со мной можно:
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Ссылка</title>
+ </head>
+ <body> 
+   <p><a href="https://instagram.com/lyutsiyaa"><img src="https://e1.pngegg.com/pngimages/209/911/png-clipart-macos-app-icons-instagram.png" width="50" 
+   height="50" alt="Пример"></a></p>
+ </body> 
+</html>
